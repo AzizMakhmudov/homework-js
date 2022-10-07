@@ -1,0 +1,7 @@
+alert("Hello web developer")
+var age = prompt("Yoshingiz nechida?")
+console.log(age)
+var ism = prompt("Ismingiz nima?")
+console.log(ism)
+var familya = prompt("Familiyangiz nima?")
+console.log(familya)
